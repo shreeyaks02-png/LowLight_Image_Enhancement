@@ -58,6 +58,10 @@ LowLight_Image_Enhancement/
 
 PSNR, SSIM, LPIPS and NIQE are not currently calculated by the implementation.
 
+## System architecture diagram
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/22528d36-b101-44e4-ba17-24064f528527" />
+
+
 ## Team Details
 Shreeya Koppa Santosh - 1RUA24CSE0439
 
