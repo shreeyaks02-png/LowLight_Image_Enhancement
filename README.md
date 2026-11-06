@@ -60,8 +60,12 @@ PSNR, SSIM, LPIPS and NIQE are not currently calculated by the implementation.
 
 ## Team Details
 Shreeya Koppa Santosh - 1RUA24CSE0439
+
 Sinchana N - 1RUA24CSE0460
+
 Sharat Havanur - 1RUA24CSE0424
+
 Srusti KS - 1RUA24CSE0479
 
-Add team member names and USNs here.
+
+
